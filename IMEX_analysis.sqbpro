@@ -1,0 +1,323 @@
+<?xml version="1.0" encoding="UTF-8"?><sqlb_project><db path="6080.db" readonly="0" foreign_keys="1" case_sensitive_like="0" temp_store="0" wal_autocheckpoint="1000" synchronous="2"/><attached/><window><main_tabs open="structure browser pragmas query" current="3"/></window><tab_structure><column_width id="0" width="300"/><column_width id="1" width="0"/><column_width id="2" width="100"/><column_width id="3" width="27365"/><column_width id="4" width="0"/><expanded_item id="0" parent="1"/><expanded_item id="1" parent="1"/><expanded_item id="2" parent="1"/><expanded_item id="3" parent="1"/></tab_structure><tab_browse><table title="budget_analysis_summary" custom_title="0" dock_id="1" table="4,23:mainbudget_analysis_summary"/><dock_state state="000000ff00000000fd000000010000000200000374000002effc0100000001fb000000160064006f0063006b00420072006f00770073006500310100000000000003740000010b00ffffff000003740000000000000004000000040000000800000008fc00000000"/><default_encoding codec=""/><browse_table_settings><table schema="main" name="budget_analysis_summary" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_" freeze_columns="0"><sort/><column_widths><column index="1" value="82"/><column index="2" value="300"/><column index="3" value="118"/><column index="4" value="144"/><column index="5" value="82"/><column index="6" value="132"/><column index="7" value="140"/><column index="8" value="117"/><column index="9" value="159"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="buyer_portfolio" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_" freeze_columns="0"><sort/><column_widths><column index="1" value="82"/><column index="2" value="246"/><column index="3" value="300"/><column index="4" value="281"/><column index="5" value="108"/><column index="6" value="128"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="diversity_analysis_summary" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_" freeze_columns="0"><sort/><column_widths><column index="1" value="246"/><column index="2" value="82"/><column index="3" value="300"/><column index="4" value="108"/><column index="5" value="135"/><column index="6" value="175"/><column index="7" value="178"/><column index="8" value="181"/><column index="9" value="187"/><column index="10" value="190"/><column index="11" value="194"/><column index="12" value="190"/><column index="13" value="138"/><column index="14" value="102"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="dla_awards" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_" freeze_columns="0"><sort/><column_widths><column index="1" value="82"/><column index="2" value="143"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="export_contracts_analysis" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_" freeze_columns="0"><sort/><column_widths><column index="1" value="82"/><column index="2" value="300"/><column index="3" value="246"/><column index="4" value="300"/><column index="5" value="276"/><column index="6" value="129"/><column index="7" value="133"/><column index="8" value="128"/><column index="9" value="197"/><column index="10" value="79"/><column index="12" value="117"/><column index="13" value="171"/><column index="14" value="174"/><column index="15" value="177"/><column index="16" value="103"/><column index="17" value="131"/><column index="18" value="111"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="ptac_contracts" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_" freeze_columns="0"><sort/><column_widths><column index="1" value="246"/><column index="2" value="300"/><column index="3" value="276"/><column index="4" value="287"/><column index="5" value="293"/><column index="6" value="128"/><column index="7" value="300"/><column index="8" value="82"/><column index="9" value="300"/><column index="10" value="197"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="raw_buyer_portfolio" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_" freeze_columns="0"><sort/><column_widths><column index="1" value="300"/><column index="2" value="124"/><column index="3" value="164"/><column index="4" value="204"/><column index="5" value="214"/><column index="6" value="171"/><column index="7" value="251"/><column index="8" value="161"/><column index="9" value="246"/><column index="10" value="193"/><column index="11" value="300"/><column index="12" value="152"/><column index="13" value="281"/><column index="14" value="152"/><column index="15" value="246"/><column index="16" value="183"/><column index="17" value="300"/><column index="18" value="143"/><column index="19" value="281"/><column index="20" value="300"/><column index="21" value="112"/><column index="22" value="194"/><column index="24" value="105"/><column index="25" value="276"/><column index="26" value="79"/><column index="27" value="162"/><column index="28" value="140"/><column index="29" value="161"/><column index="30" value="146"/><column index="31" value="150"/><column index="32" value="124"/><column index="33" value="128"/><column index="34" value="213"/><column index="35" value="174"/><column index="36" value="300"/><column index="37" value="147"/><column index="38" value="134"/><column index="39" value="174"/><column index="40" value="300"/><column index="41" value="199"/><column index="42" value="241"/><column index="43" value="82"/><column index="44" value="300"/><column index="45" value="226"/><column index="46" value="214"/><column index="47" value="215"/><column index="48" value="257"/><column index="49" value="193"/><column index="50" value="204"/><column index="51" value="162"/><column index="52" value="128"/><column index="53" value="168"/><column index="54" value="197"/><column index="55" value="151"/><column index="56" value="188"/><column index="57" value="300"/><column index="58" value="300"/><column index="59" value="136"/><column index="60" value="98"/><column index="61" value="221"/><column index="62" value="273"/><column index="63" value="232"/><column index="64" value="230"/><column index="65" value="286"/><column index="66" value="138"/><column index="67" value="174"/><column index="68" value="292"/><column index="69" value="171"/><column index="70" value="213"/><column index="71" value="300"/><column index="72" value="300"/><column index="73" value="300"/><column index="74" value="177"/><column index="75" value="300"/><column index="76" value="278"/><column index="77" value="227"/><column index="78" value="246"/><column index="79" value="232"/><column index="80" value="220"/><column index="81" value="178"/><column index="82" value="300"/><column index="83" value="168"/><column index="84" value="163"/><column index="85" value="300"/><column index="86" value="109"/><column index="87" value="150"/><column index="88" value="148"/><column index="89" value="156"/><column index="90" value="176"/><column index="91" value="233"/><column index="92" value="175"/><column index="93" value="211"/><column index="94" value="230"/><column index="95" value="192"/><column index="96" value="152"/><column index="97" value="140"/><column index="98" value="165"/><column index="99" value="295"/><column index="100" value="136"/><column index="101" value="210"/><column index="102" value="179"/><column index="103" value="155"/><column index="104" value="255"/><column index="105" value="122"/><column index="106" value="158"/><column index="107" value="79"/><column index="108" value="93"/><column index="109" value="164"/><column index="110" value="134"/><column index="111" value="204"/><column index="112" value="132"/><column index="113" value="203"/><column index="114" value="300"/><column index="115" value="120"/><column index="116" value="169"/><column index="117" value="228"/><column index="118" value="117"/><column index="119" value="150"/><column index="120" value="103"/><column index="121" value="118"/><column index="122" value="172"/><column index="123" value="190"/><column index="124" value="105"/><column index="125" value="159"/><column index="126" value="157"/><column index="127" value="230"/><column index="128" value="171"/><column index="129" value="199"/><column index="130" value="300"/><column index="131" value="174"/><column index="132" value="174"/><column index="133" value="174"/><column index="134" value="136"/><column index="135" value="177"/><column index="136" value="97"/><column index="137" value="247"/><column index="138" value="254"/><column index="139" value="132"/><column index="140" value="128"/><column index="141" value="188"/><column index="142" value="300"/><column index="143" value="212"/><column index="144" value="175"/><column index="145" value="300"/><column index="146" value="214"/><column index="147" value="300"/><column index="148" value="300"/><column index="149" value="300"/><column index="150" value="300"/><column index="151" value="300"/><column index="152" value="300"/><column index="153" value="300"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="recipients" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_" freeze_columns="0"><sort/><column_widths><column index="1" value="79"/><column index="3" value="276"/><column index="4" value="101"/><column index="5" value="171"/><column index="6" value="174"/><column index="7" value="177"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table></browse_table_settings></tab_browse><tab_sql><sql name="SQL 1*">/*DLA Awards Table */
+CREATE TABLE IF NOT EXISTS dla_awards (
+  naics_code         TEXT,
+  total_award_amount REAL
+);
+
+/* PTAC Contracts Table*/
+CREATE TABLE ptac_contracts (
+  awarding_agency_name                     TEXT,
+  awarding_sub_agency_name                 TEXT,
+  recipient_name                           TEXT,
+  primary_place_of_performance_city_name   TEXT,
+  primary_place_of_performance_state_code  TEXT,
+  award_type                               TEXT,
+  prime_award_base_transaction_description TEXT,
+  naics_code                               TEXT,
+  naics_description                        TEXT,
+  type_of_set_aside                        TEXT
+);
+
+/* Buyer Portfolio Table */
+CREATE TABLE buyer_portfolio (
+  naics_code        TEXT,
+  agency_name       TEXT,
+  sub_agency_name   TEXT,
+  funding_office    TEXT,
+  contract_count    INTEGER,
+  total_award_value REAL
+);
+
+/* Recipients Table*/
+CREATE TABLE IF NOT EXISTS recipients (
+  cage_code               TEXT PRIMARY KEY,
+  recipient_uei           TEXT,
+  recipient_name          TEXT,
+  state                   TEXT,
+  woman_owned_business    INTEGER,
+  veteran_owned_business  INTEGER,
+  minority_owned_business INTEGER
+);
+
+INSERT INTO dla_awards (naics_code, total_award_amount)
+SELECT
+  printf('%06s', &quot;NAICS Code&quot;)                                       AS naics_code,
+  REPLACE(REPLACE(&quot;Dollars Obligated&quot;, '$', ''), ',', '') * 1.0      AS total_award_amount
+FROM raw_dla_awards
+WHERE &quot;Dollars Obligated&quot; &lt;&gt; '';
+
+INSERT INTO ptac_contracts (
+  awarding_agency_name,
+  awarding_sub_agency_name,
+  recipient_name,
+  primary_place_of_performance_city_name,
+  primary_place_of_performance_state_code,
+  award_type,
+  prime_award_base_transaction_description,
+  naics_code,
+  naics_description,
+  type_of_set_aside
+)
+SELECT
+  awarding_agency_name,
+  awarding_sub_agency_name,
+  recipient_name,
+  primary_place_of_performance_city_name,
+  primary_place_of_performance_state_code,
+  award_type,
+  prime_award_base_transaction_description,
+  printf('%06s', naics_code), 
+  naics_description,
+  type_of_set_aside
+FROM raw_ptac_contracts
+WHERE naics_code IS NOT NULL;
+
+
+INSERT INTO buyer_portfolio (
+    naics_code,
+    agency_name,
+    sub_agency_name,
+    funding_office,
+    contract_count,
+    total_award_value
+)
+SELECT 
+    CAST(naics_code AS TEXT) as naics_code,
+    awarding_agency_name as agency_name,
+    COALESCE(awarding_sub_agency_name, '') as sub_agency_name,
+    COALESCE(funding_office_name, '') as funding_office,
+    COUNT(*) as contract_count,
+    SUM(COALESCE(total_obligated_amount, 0.0)) as total_award_value
+FROM raw_buyer_portfolio
+WHERE naics_code IS NOT NULL 
+    AND awarding_agency_name IS NOT NULL
+    AND awarding_agency_name != ''
+GROUP BY 
+    naics_code,
+    awarding_agency_name,
+    awarding_sub_agency_name,
+    funding_office_name
+ORDER BY total_award_value DESC;
+
+INSERT OR REPLACE INTO recipients (
+    cage_code,
+    recipient_uei,
+    recipient_name,
+    state,
+    woman_owned_business,
+    veteran_owned_business,
+    minority_owned_business
+)
+SELECT 
+    cage_code,
+    recipient_uei,
+    COALESCE(recipient_name, '') as recipient_name,
+    COALESCE(recipient_state_name, '') as state,
+    CASE 
+        WHEN woman_owned_business = 't' THEN 1 
+        WHEN woman_owned_business = 'f' THEN 0 
+        ELSE 0 
+    END as woman_owned_business,
+    CASE 
+        WHEN veteran_owned_business = 't' THEN 1 
+        WHEN veteran_owned_business = 'f' THEN 0 
+        ELSE 0 
+    END as veteran_owned_business,
+    CASE 
+        WHEN minority_owned_business = 't' THEN 1 
+        WHEN minority_owned_business = 'f' THEN 0 
+        ELSE 0 
+    END as minority_owned_business
+FROM raw_recipient_info 
+WHERE cage_code IS NOT NULL 
+    AND cage_code != ''
+ORDER BY cage_code;
+
+-- PTAC Contracts + Recipients
+SELECT 
+    p.naics_code,
+    p.naics_description,
+    p.awarding_agency_name,
+    p.awarding_sub_agency_name,
+    p.recipient_name,
+    p.primary_place_of_performance_state_code as performance_state,
+    p.award_type,
+    p.type_of_set_aside,
+    r.cage_code,
+    r.recipient_uei,
+    r.state as contractor_state,
+    r.woman_owned_business,
+    r.veteran_owned_business,
+    r.minority_owned_business,
+    CASE 
+        WHEN r.woman_owned_business = 1 THEN 'Woman-Owned'
+        WHEN r.veteran_owned_business = 1 THEN 'Veteran-Owned'
+        WHEN r.minority_owned_business = 1 THEN 'Minority-Owned'
+        ELSE 'Regular Business'
+    END as business_type,
+    CASE 
+        WHEN (COALESCE(r.woman_owned_business,0) + COALESCE(r.veteran_owned_business,0) + COALESCE(r.minority_owned_business,0)) &gt; 0 
+        THEN 'Small Business' 
+        ELSE 'Large Business' 
+    END as business_category
+FROM ptac_contracts p
+LEFT JOIN recipients r ON UPPER(TRIM(p.recipient_name)) = UPPER(TRIM(r.recipient_name))
+ORDER BY p.naics_code, p.awarding_agency_name;
+
+-- PTAC + DLA + Buyer Portfolio
+SELECT 
+    p.naics_code,
+    p.naics_description,
+    COUNT(DISTINCT p.awarding_agency_name) as unique_agencies,
+    COUNT(*) as ptac_contract_count,
+    d.total_award_amount as dla_budget,
+    SUM(bp.contract_count) as bp_total_contracts,
+    SUM(bp.total_award_value) as bp_actual_spending,
+    CASE 
+        WHEN d.total_award_amount &gt; SUM(bp.total_award_value) THEN 'Under-Spent'
+        WHEN d.total_award_amount &lt; SUM(bp.total_award_value) THEN 'Over-Spent'
+        ELSE 'On-Target'
+    END as spending_status,
+    ROUND(SUM(bp.total_award_value) / NULLIF(d.total_award_amount, 0) * 100, 1) as budget_execution_rate
+FROM ptac_contracts p
+LEFT JOIN dla_awards d ON p.naics_code = d.naics_code
+LEFT JOIN buyer_portfolio bp ON p.naics_code = bp.naics_code
+GROUP BY p.naics_code, p.naics_description, d.total_award_amount
+HAVING COUNT(*) &gt; 1
+ORDER BY d.total_award_amount DESC NULLS LAST;
+
+-- PTAC + Recipients + Buyer Portfolio
+SELECT 
+    p.awarding_agency_name,
+    p.naics_code,
+    p.naics_description,
+    COUNT(*) as total_contracts,
+    COUNT(DISTINCT p.recipient_name) as unique_contractors,
+    SUM(r.woman_owned_business) as woman_owned_contracts,
+    SUM(r.veteran_owned_business) as veteran_owned_contracts,
+    SUM(r.minority_owned_business) as minority_owned_contracts,
+    ROUND(SUM(r.woman_owned_business) * 100.0 / COUNT(*), 1) as woman_owned_percentage,
+    ROUND(SUM(r.veteran_owned_business) * 100.0 / COUNT(*), 1) as veteran_owned_percentage,
+    ROUND(SUM(r.minority_owned_business) * 100.0 / COUNT(*), 1) as minority_owned_percentage,
+    ROUND(SUM(CASE WHEN (r.woman_owned_business + r.veteran_owned_business + r.minority_owned_business) &gt; 0 THEN 1 ELSE 0 END) * 100.0 / COUNT(*), 1) as small_business_percentage,
+    AVG(bp.total_award_value) as avg_portfolio_value,
+    CASE 
+        WHEN SUM(CASE WHEN (r.woman_owned_business + r.veteran_owned_business + r.minority_owned_business) &gt; 0 THEN 1 ELSE 0 END) * 100.0 / COUNT(*) &gt;= 30 
+        THEN 'High Diversity'
+        WHEN SUM(CASE WHEN (r.woman_owned_business + r.veteran_owned_business + r.minority_owned_business) &gt; 0 THEN 1 ELSE 0 END) * 100.0 / COUNT(*) &gt;= 15 
+        THEN 'Medium Diversity'
+        ELSE 'Low Diversity'
+    END as diversity_level
+FROM ptac_contracts p
+LEFT JOIN recipients r ON UPPER(TRIM(p.recipient_name)) = UPPER(TRIM(r.recipient_name))
+LEFT JOIN buyer_portfolio bp ON (
+    p.naics_code = bp.naics_code 
+    AND UPPER(TRIM(p.awarding_agency_name)) = UPPER(TRIM(bp.agency_name))
+)
+WHERE r.cage_code IS NOT NULL
+GROUP BY p.awarding_agency_name, p.naics_code, p.naics_description
+HAVING COUNT(*) &gt;= 2
+ORDER BY small_business_percentage DESC;
+
+CREATE TABLE export_contracts_analysis AS
+SELECT 
+    p.naics_code,
+    p.naics_description,
+    p.awarding_agency_name,
+    p.awarding_sub_agency_name,
+    p.recipient_name,
+    p.primary_place_of_performance_city_name as performance_city,
+    p.primary_place_of_performance_state_code as performance_state,
+    p.award_type,
+    p.type_of_set_aside,
+    r.cage_code,
+    r.recipient_uei,
+    r.state as contractor_state,
+    r.woman_owned_business,
+    r.veteran_owned_business,
+    r.minority_owned_business,
+  
+    CASE 
+        WHEN r.woman_owned_business = 1 THEN 'Woman-Owned'
+        WHEN r.veteran_owned_business = 1 THEN 'Veteran-Owned'
+        WHEN r.minority_owned_business = 1 THEN 'Minority-Owned'
+        ELSE 'Regular Business'
+    END as business_type,
+    CASE 
+        WHEN (COALESCE(r.woman_owned_business,0) + COALESCE(r.veteran_owned_business,0) + COALESCE(r.minority_owned_business,0)) &gt; 0 
+        THEN 'Small Business' 
+        ELSE 'Large Business' 
+    END as business_category,
+  
+    CASE 
+        WHEN SUBSTR(p.naics_code, 1, 2) = '23' THEN 'Construction'
+        WHEN SUBSTR(p.naics_code, 1, 2) IN ('31', '32', '33') THEN 'Manufacturing'
+        WHEN SUBSTR(p.naics_code, 1, 2) IN ('48', '49') THEN 'Transportation'
+        WHEN SUBSTR(p.naics_code, 1, 2) = '54' THEN 'Professional Services'
+        ELSE 'Other Industries'
+    END as industry_sector
+FROM ptac_contracts p
+LEFT JOIN recipients r ON UPPER(TRIM(p.recipient_name)) = UPPER(TRIM(r.recipient_name));
+
+
+DROP TABLE IF EXISTS budget_analysis_summary;
+
+CREATE TABLE budget_analysis_summary AS
+SELECT 
+    p.naics_code,
+    p.naics_description,
+    COUNT(DISTINCT p.awarding_agency_name) as unique_agencies,
+    COUNT(*) as ptac_contract_count,
+    d.total_award_amount as dla_budget,
+    SUM(bp.contract_count) as bp_total_contracts,
+    SUM(bp.total_award_value) as bp_actual_spending,
+    CASE 
+        WHEN d.total_award_amount &gt; SUM(bp.total_award_value) THEN 'Under-Spent'
+        WHEN d.total_award_amount &lt; SUM(bp.total_award_value) THEN 'Over-Spent'
+        ELSE 'On-Target'
+    END as spending_status,
+    ROUND(SUM(bp.total_award_value) / NULLIF(d.total_award_amount, 0) * 100, 1) as budget_execution_rate
+FROM ptac_contracts p
+LEFT JOIN dla_awards d ON p.naics_code = d.naics_code
+LEFT JOIN buyer_portfolio bp ON p.naics_code = bp.naics_code
+GROUP BY p.naics_code, p.naics_description, d.total_award_amount
+HAVING COUNT(*) &gt; 1
+ORDER BY d.total_award_amount DESC NULLS LAST;
+
+-- Create Table 2: Diversity Analysis Summary
+DROP TABLE IF EXISTS diversity_analysis_summary;
+
+CREATE TABLE diversity_analysis_summary AS
+SELECT 
+    p.awarding_agency_name,
+    p.naics_code,
+    p.naics_description,
+    COUNT(*) as total_contracts,
+    COUNT(DISTINCT p.recipient_name) as unique_contractors,
+    SUM(r.woman_owned_business) as woman_owned_contracts,
+    SUM(r.veteran_owned_business) as veteran_owned_contracts,
+    SUM(r.minority_owned_business) as minority_owned_contracts,
+    ROUND(SUM(r.woman_owned_business) * 100.0 / COUNT(*), 1) as woman_owned_percentage,
+    ROUND(SUM(r.veteran_owned_business) * 100.0 / COUNT(*), 1) as veteran_owned_percentage,
+    ROUND(SUM(r.minority_owned_business) * 100.0 / COUNT(*), 1) as minority_owned_percentage,
+    ROUND(SUM(CASE WHEN (r.woman_owned_business + r.veteran_owned_business + r.minority_owned_business) &gt; 0 THEN 1 ELSE 0 END) * 100.0 / COUNT(*), 1) as small_business_percentage,
+    AVG(bp.total_award_value) as avg_portfolio_value,
+    CASE 
+        WHEN SUM(CASE WHEN (r.woman_owned_business + r.veteran_owned_business + r.minority_owned_business) &gt; 0 THEN 1 ELSE 0 END) * 100.0 / COUNT(*) &gt;= 30 
+        THEN 'High Diversity'
+        WHEN SUM(CASE WHEN (r.woman_owned_business + r.veteran_owned_business + r.minority_owned_business) &gt; 0 THEN 1 ELSE 0 END) * 100.0 / COUNT(*) &gt;= 15 
+        THEN 'Medium Diversity'
+        ELSE 'Low Diversity'
+    END as diversity_level
+FROM ptac_contracts p
+LEFT JOIN recipients r ON UPPER(TRIM(p.recipient_name)) = UPPER(TRIM(r.recipient_name))
+LEFT JOIN buyer_portfolio bp ON (
+    p.naics_code = bp.naics_code 
+    AND UPPER(TRIM(p.awarding_agency_name)) = UPPER(TRIM(bp.agency_name))
+)
+WHERE r.cage_code IS NOT NULL
+GROUP BY p.awarding_agency_name, p.naics_code, p.naics_description
+HAVING COUNT(*) &gt;= 2
+ORDER BY small_business_percentage DESC;
+
+</sql><current_tab id="0"/></tab_sql></sqlb_project>

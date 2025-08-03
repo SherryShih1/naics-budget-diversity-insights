@@ -1,6 +1,6 @@
 # NAICS Budget and Diversity Insights
 
-An interactive Power BI dashboard for IMEX Cargo to track updated NAICS codes using cleaned historical data and live API sources, supporting trade compliance, business registration, and market analysis.
+An interactive Power BI dashboard for IMEX Cargo to track updated NAICS codes using cleaned historical datas, supporting trade compliance, business registration, and market analysis.
 
 ---
 
